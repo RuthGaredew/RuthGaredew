@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruth Garedew</h1>
-<h3 align="center">A passionate Full-stack developer from Ethiopia</h3>
+<h3 align="center">A Passionate Front-End Web Developer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [School App](https://github.com/Ermiyasy/School_App.git)
 
